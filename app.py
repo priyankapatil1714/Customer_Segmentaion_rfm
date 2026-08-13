@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.title("Customer Segmentation Dashboard")
 
-rfm=pd.read_csv("C:/Users/Priyanka/Datascience/rfm_with_clusters.csv")
+rfm=pd.read_csv("rfm_with_clusters.csv")
 st.write(rfm.head())
 cluster_names={
     0:"New/Low-Engagement",
