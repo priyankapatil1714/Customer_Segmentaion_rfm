@@ -1,3 +1,5 @@
+**Live demo:**[https://customersegmentaionrfm-8aptydp3jwuvwvmankvoqo.streamlit.app/]
+
 1. Objective
 Customer segmentation based on purchase behavior using RFM analysis so that the business can target each customer group differently, improving marketing efficiency and customer retention.
 
